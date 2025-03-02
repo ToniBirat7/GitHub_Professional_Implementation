@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hi, This is Birat
-=======
-Hi, Test
->>>>>>> eb43856e80c159457df1a4374c5791bc648f4a69
+Hi, This is Birat Second Try
+
+
